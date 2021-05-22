@@ -1,4 +1,4 @@
-package com.fuzailshaikh.structural.wrapper;
+package com.fuzailshaikh.structural.decorator;
 
 public class Rectangle implements Shape {
 
